@@ -1,1 +1,3 @@
-# learner206-repository-name
+# 使用git推送到github
+
+简简单单的测试
